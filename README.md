@@ -3,15 +3,23 @@ A Robust Driver Emotion Recognition Method Based on High-Purity Feature Separati
 
 Driver drowsiness detection is of great significance  in improving driving safety and has been widely studied in recent  years.  However, some existing methods have not fully utilized  the drowsiness-related information, and some methods are susceptible  to interference from the redundant information of input  data.  To address these issues, a video-based driver drowsiness  detection method according to the key facial features including  facial landmarks and local facial areas (VBFLLFA) is proposed  in this paper.  In order to fully utilize the key facial features  related to drowsiness and exclude the interference of redundant  information, the head movement information is obtained through  facial landmark analysis and the movement information of eyes  and mouth is acquired from the local facial areas.  And the  spatial filtering based on the common spatial pattern (CSP)  algorithm is introduced to improve the discrimination of different  classes of samples.  To adequately extract the temporal and spatial  features, a two-branch multi-head attention (TB-MHA) module  is designed in this paper.  Furthermore, the center loss with center  vector distance penalty is introduced to further improve the  discrimination of different classes of samples in the feature space.
 
+<div align="center">
+
+![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg) 
+
+Fig. 1 The algorithm diagram of the proposed video-based driver drowsiness detection method according to facial landmarks and local facial areas.  
+
+</div>
+
+
 Multiple light intensities driver emotion recognition (MLI-DER) dataset
 -------
 
 <div align="center">
 
-
 ![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg) 
 
-Fig. 1 The data acquisition system of the MLI-DER dataset.  
+Fig. 2 The data acquisition system of the MLI-DER dataset.  
 
 </div>
 
