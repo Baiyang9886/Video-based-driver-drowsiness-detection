@@ -5,7 +5,7 @@ Driver drowsiness detection is of great significance  in improving driving safet
 
 <div align="center">
 
-<img src="https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg">
+<img src="https://github.com/Baiyang9886/Video-based-driver-drowsiness-detection/blob/main/framework.jpg">
 
 Fig. 1 The algorithm diagram of the proposed video-based driver drowsiness detection method according to facial landmarks and local facial areas.  
 
