@@ -17,7 +17,7 @@ Video-based driver drowsiness detection (VBDDD) dataset
 
 <div align="center">
 
-<img src="https://github.com/Baiyang9886/Video-based-driver-drowsiness-detection/blob/main/data-recording.jpg" width="500px">
+<img src="https://github.com/Baiyang9886/Video-based-driver-drowsiness-detection/blob/main/data-recording.jpg" width="400px">
 
 Fig. 2 The data acquisition system of the MLI-DER dataset.  
 
