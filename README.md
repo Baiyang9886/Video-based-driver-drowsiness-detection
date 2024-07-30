@@ -5,14 +5,11 @@ Driver drowsiness detection is of great significance  in improving driving safet
 
 <div align="center">
 
-<img src="https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg" width="600px">
+<img src="https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg">
 
 Fig. 1 The algorithm diagram of the proposed video-based driver drowsiness detection method according to facial landmarks and local facial areas.  
 
 </div>
-
-<img src="https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg" width="210px">
-
 
 
 Multiple light intensities driver emotion recognition (MLI-DER) dataset
@@ -20,7 +17,7 @@ Multiple light intensities driver emotion recognition (MLI-DER) dataset
 
 <div align="center">
 
-![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg) 
+<img src="https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg" width="600px">
 
 Fig. 2 The data acquisition system of the MLI-DER dataset.  
 
