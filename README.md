@@ -11,6 +11,9 @@ Fig. 1 The algorithm diagram of the proposed video-based driver drowsiness detec
 
 </div>
 
+<img src="https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg" width="210px">
+
+
 
 Multiple light intensities driver emotion recognition (MLI-DER) dataset
 -------
