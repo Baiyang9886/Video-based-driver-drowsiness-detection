@@ -8,10 +8,10 @@ Multiple light intensities driver emotion recognition (MLI-DER) dataset
 
 <div align="center">
 
-| Data acquisition system
 
-| ![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg) 
-| Fig. 1 The data acquisition system of the MLI-DER dataset.  |
+![Image](https://github.com/Baiyang9886/Driver-emotion-recognition/blob/main/setup.jpg) 
+
+Fig. 1 The data acquisition system of the MLI-DER dataset.  
 
 </div>
 
