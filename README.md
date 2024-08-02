@@ -41,12 +41,21 @@ L. Yang, H. Yang, H. Wei, Z. Hu and C. Lv, "Video-Based Driver Drowsiness Detect
 (2) BibTeX
 
 @ARTICLE{10382460,
+
   author={Yang, Lie and Yang, Haohan and Wei, Henglai and Hu, Zhongxu and Lv, Chen},
+  
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  
   title={Video-Based Driver Drowsiness Detection With Optimised Utilization of Key Facial Features}, 
+  
   year={2024},
+  
   volume={25},
+  
   number={7},
+  
   pages={6938-6950},
+  
   keywords={Feature extraction;Electroencephalography;Mouth;Vehicles;Physiology;Interference;Facial features;Driver drowsiness detection;multi-head attention;facial landmarks;local facial areas},
+  
   doi={10.1109/TITS.2023.3346054}}
